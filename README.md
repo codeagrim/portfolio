@@ -21,4 +21,4 @@ I have completed a **Bachelor of Computer Applications (BCA)** and am currently 
 
 ## Contact
 
-Feel free to reach out to me via my website's contact form or connect with me on [LinkedIn](#).
+Feel free to reach out to me via my website's contact form or connect with me on [LinkedIn](https://www.linkedin.com/in/agrim-sharma-240b02249/).
