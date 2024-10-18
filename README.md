@@ -2,6 +2,8 @@
 
 Welcome to my portfolio website! This site is built using **HTML** and **CSS** to showcase my skills, projects, and journey as a web developer.
 
+**[Visit my portfolio website](https://codeagrim.github.io/portfolio/)**
+
 ## Features
 
 - **Clean and Modern Design:** A minimalistic layout that focuses on providing a seamless user experience.
