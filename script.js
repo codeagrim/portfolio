@@ -176,6 +176,7 @@ function initParticles() {
     requestAnimationFrame(animateParticles);
   }
 
+  
   createParticles();
   animateParticles();
 
