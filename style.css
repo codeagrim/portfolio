@@ -207,6 +207,10 @@ body {
   position: relative;
 }
 
+#express-icon{
+  filter: invert(100%);
+}
+
 .stack-icons img {
   width: 60px;
   transition: transform 0.3s ease, filter 0.3s ease;
@@ -435,5 +439,9 @@ body {
 
   .project-grid {
     grid-template-columns: 1fr;
+  }
+
+  .cursor{
+    display: none;
   }
 }
