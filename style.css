@@ -226,14 +226,18 @@ body {
   top: -35px;
   left: 50%;
   transform: translateX(-50%);
-  background: rgba(10, 10, 35, 0.9);
+  background: rgba(255, 255, 255, 0);
   color: #fff;
-  padding: 5px 10px;
+  padding: 4px 10px;
   border-radius: 5px;
   font-size: 0.8rem;
   opacity: 0;
   transition: opacity 0.3s ease;
   pointer-events: none;
+}
+
+.exp{
+  filter: invert(100%);
 }
 
 .icon-wrapper:hover .tooltip {
